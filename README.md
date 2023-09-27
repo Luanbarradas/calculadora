@@ -1,6 +1,9 @@
 # ➕ Calculadora JavaScript ➗
 > Status: Pronto, mas em constante melhora!
 
+![WhatsApp Image 2023-09-27 at 16 57 35](https://github.com/Luanbarradas/calculadora/assets/129879664/e448e30d-0e21-4f4d-9cf1-ae806b488c72)
+
+
 ### O que é o projeto?
 Este é um projeto de calculadora simples desenvolvido usando JavaScript, HTML e CSS. Ele permite que os usuários realizem operações matemáticas básicas como adição, subtração, multiplicação e divisão.
 
