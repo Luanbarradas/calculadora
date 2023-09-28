@@ -3,6 +3,9 @@
 
 ![WhatsApp Image 2023-09-27 at 16 57 35](https://github.com/Luanbarradas/calculadora/assets/129879664/e448e30d-0e21-4f4d-9cf1-ae806b488c72)
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
 ## O que é o projeto?
 Este é um projeto de calculadora simples desenvolvido usando JavaScript, HTML e CSS. Ele permite que os usuários realizem operações matemáticas básicas como adição, subtração, multiplicação e divisão.
